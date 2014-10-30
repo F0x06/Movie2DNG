@@ -22,7 +22,7 @@ You'll also need ffmpeg, expat and libexif.
 
 On Ubuntu, try this.
 
-sudo apt-get install libavcodec-dev libavformat-dev libexpat1-dev libexif-dev.
+sudo apt-get install libavcodec-dev libavformat-dev libexpat1-dev libexif-dev scons.
 
 just type "scons" and you'll end up with a movi2dng executable.
 
